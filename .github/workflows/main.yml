@@ -19,5 +19,5 @@ jobs:
       - name: List Files
         run: ls -ltr
         
-      - name: Read app.txt
-        run: cat app.txt
+      - name: Read aap.txt
+        run: cat aap.txt
